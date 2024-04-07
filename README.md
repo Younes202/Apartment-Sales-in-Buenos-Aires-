@@ -31,19 +31,23 @@ In this section, we discuss two practical deployment strategies for our predicti
 ## Key insghits 
 
 #### 3d scatter Plot : 
-**Distribution of Prices based on (lan,long)** 
+**Distribution of Prices based on (lan,long)**
+
 <img src="images/pr2_2plt.png" alt=" Distribution of Prices based on lan & long " width="400" height="300">
 
 #### correlation heatmap plot :
 **coorelation of (lan,long,surface)**
+
 <img src="images/pr2_4coor.png" alt="coorelation of lan,long, surface coverd in m2" width="400" height="300">
 
 #### pipeline model : 
 **including (oneHotEncoder,SimpleImputer,Ridge)**
+
 <img src="images/pr2_1Model.png" alt="pipeline model" width="400" height="300">
 
 #### Deploy the model in widget : 
 **predict the price based on (Size,Location,Neighborhood)**
+
 <img src="images/pr2_3widg.png" alt="predict price on widget" width="400" height="300">
 
 ## Skills Developed
