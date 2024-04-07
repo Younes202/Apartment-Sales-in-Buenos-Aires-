@@ -1,4 +1,4 @@
-# Predicting Apartment Sale Prices in Buenos Aires! 🏙️
+# Predicting Apartment Prices in Buenos Aires! 🏙️
 
 🚀 Welcome to this project focused on Predicting Apartment Sale Prices in Buenos Aires!
 
