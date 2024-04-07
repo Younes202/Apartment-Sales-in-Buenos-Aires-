@@ -27,3 +27,38 @@ In this section, we discuss two practical deployment strategies for our predicti
 1. **Function Deployment:** We encapsulated our model in a function called `make_prediction`, enabling users to input apartment attributes and receive price predictions.
 
 2. **Interactive Dashboard:** Utilizing Jupyter Widgets, we created an interactive dashboard for dynamic exploration of price predictions by adjusting input parameters.
+
+## Key insghits 
+
+#### 3d scatter Plot  : Distribution of Prices based on lan & long 
+<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+
+#### correlation heatmap plot   : coorelation of lan,long, surface coverd in m2
+<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+
+#### pipeline model   : including (oneHotEncoder, SimpleImputer, Ridge)
+<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+
+#### Deploy the model in widget  : based on (Size, Location, and Neighborhood) predict the price
+<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+
+## Skills Developed
+
+During this project, the following skills were developed or enhanced:
+- Data cleaning and preprocessing techniques
+- Exploratory data analysis (EDA)
+- Model building and evaluation
+- Feature engineering
+- Data visualization using matplotlib and plotly
+- Deployment strategies for machine learning models
+- Interpretation of model results and insights generation
+
+## Next Steps
+
+I'm looking forward to tackling the next challenge, Project 3 Air Quality in in Nairobi !
+
+## Ask Me 
+
+Feel free to reach out if you have any questions or suggestions for improvement. Thank you for visiting my repository!
+
+
