@@ -1,10 +1,9 @@
 # Predicting Apartment Sale Prices in Buenos Aires! 
-🚀 Welcome to this project, which involved analyzing a dataset of 21,000 properties to discern the impact of size versus location on real estate prices. I imported and cleansed data from a CSV file, unveiling key insights. Additionally, I explored the dataset through data visualization techniques, analyzed the relationship between home prices and area, and mapped the geographic distribution of properties.
+🚀 Welcome to this project focused on Predicting Apartment Sale Prices in Buenos Aires! 🏙️ Our endeavor aims to develop predictive models for estimating apartment sale prices in the bustling city of Buenos Aires. With a commitment to rigorous analysis and methodical modeling, we seek to provide accurate forecasts that contribute to informed decision-making within the real estate market of this dynamic city. Join us as we delve into the complexities of real estate data and strive to offer valuable insights for strategic planning and investment.
 
-## Objective
-🏢📍 Our main goal was to develop a predictive model that accurately forecasts apartment sale prices in Buenos Aires. To achieve this, we followed a structured approach consisting of three main steps:
 
-### Project Overview 
+
+## Project Overview 
 
  I. Prepare Data
 🔍 **Import:** We imported and meticulously cleaned the dataset, ensuring accuracy and consistency.
