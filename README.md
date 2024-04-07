@@ -41,6 +41,7 @@ In this section, we discuss two practical deployment strategies for our predicti
 
 #### Deploy the model in widget : predict the price based on 
 (Size,Location,Neighborhood)
+
 <img src="images/pr2_3widg.png" alt="predict price on widget" width="400" height="300">
 
 ## Skills Developed
