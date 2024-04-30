@@ -1,4 +1,5 @@
-# Predicting Apartment Sale Prices in Buenos Aires! 🏙️
+# Predicting Apartment Sale Prices in Buenos Aires! 🇦🇷
+
 
 🚀 Welcome to this project focused on Predicting Apartment Sale Prices in Buenos Aires! Our endeavor aims to develop predictive models for estimating apartment sale prices in the bustling city of Buenos Aires. With a commitment to rigorous analysis and methodical modeling, we seek to provide accurate forecasts that contribute to informed decision-making within the real estate market of this dynamic city. Join us as we delve into the complexities of real estate data and strive to offer valuable insights for strategic planning and investment.
 
@@ -30,17 +31,25 @@ In this section, we discuss two practical deployment strategies for our predicti
 
 ## Key insghits 
 
-#### 3d scatter Plot  : Distribution of Prices based on lan & long 
-<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+#### 3d scatter Plot : 
+**Distribution of Prices based on (lan,long)**
 
-#### correlation heatmap plot   : coorelation of lan,long, surface coverd in m2
-<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+<img src="images/pr2_2plt.png" alt=" Distribution of Prices based on lan & long " width="400" height="300">
 
-#### pipeline model   : including (oneHotEncoder, SimpleImputer, Ridge)
-<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+#### correlation heatmap plot :
+**coorelation of (lan,long,surface)**
 
-#### Deploy the model in widget  : based on (Size, Location, and Neighborhood) predict the price
-<img src="images/histogram_homes_prices.png" alt="Histogram Distribution of Home Prices" width="400" height="300">
+<img src="images/pr2_4coor.png" alt="coorelation of lan,long, surface coverd in m2" width="400" height="300">
+
+#### pipeline model : 
+**including (oneHotEncoder,SimpleImputer,Ridge)**
+
+<img src="images/pr2_1Model.png" alt="pipeline model" width="400" height="300">
+
+#### Deploy the model in widget : 
+**predict the price based on (Size,Location,Neighborhood)**
+
+<img src="images/pr2_3widg.png" alt="predict price on widget" width="400" height="300">
 
 ## Skills Developed
 
