@@ -11,7 +11,7 @@ Welcome👋, in this project focused on Predicting Apartment Sale Prices in Buen
 
 #### **Improve model performance by reducing overfitting**📈🔧🔍
 
-#### **Create a dynamic dashboard for interacting with your completed model**📊🖥️🔧
+#### **Create a dynamic dashboard for interacting with our completed model**📊🖥️🔧
 
 ## Key insghits 
 
