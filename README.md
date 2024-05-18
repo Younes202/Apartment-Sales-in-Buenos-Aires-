@@ -36,7 +36,9 @@ With a commitment to rigorous analysis and methodical modeling, we seek to provi
 
 
 ## Resources
-- **[https://www.kaggle.com/code/muhammadhafil/housing-in-buenos-aires](Click  here to access to the open source data (kaggle))**
+- **[Click  here to access to the open source data from kagle](https://www.kaggle.com/code/muhammadhafil/housing-in-buenos-aires)** 
+
+-  ** []()
 
 
 ## Contact
