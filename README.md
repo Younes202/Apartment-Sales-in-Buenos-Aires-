@@ -29,7 +29,7 @@ With a commitment to rigorous analysis and methodical modeling, we seek to provi
 <img src="images/pr2_1Model.png" alt="pipeline model" width="400" height="300">
 
 - **Deploy the model in widget** 
-  ##### **predict the price based on Size,Location and Neighborhood**
+  ### **predict the price based on Size,Location and Neighborhood**
 
 <img src="images/pr2_3widg.png" alt="predict price on widget" width="400" height="300">
 
@@ -38,7 +38,7 @@ With a commitment to rigorous analysis and methodical modeling, we seek to provi
 ## Resources
 - **[Click  here to access to the open source data from kaggle](https://www.kaggle.com/code/muhammadhafil/housing-in-buenos-aires)** 
 
--  ** [Click  here to access to the coude source of the project]()
+- **[Click  here to access to the coude source of the project]()**
 
 
 ## Contact
