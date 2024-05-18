@@ -25,11 +25,11 @@ With a commitment to rigorous analysis and methodical modeling, we seek to provi
 <img src="images/pr2_4coor.png" alt="coorelation of lan,long, surface coverd in m2" width="400" height="300">
 
  - **Model pipeline structure**
- -  
+   
 <img src="images/pr2_1Model.png" alt="pipeline model" width="400" height="300">
 
 - **Deploy the model in widget** 
--- **predict the price based on Size,Location and Neighborhood**
+  ##### **predict the price based on Size,Location and Neighborhood**
 
 <img src="images/pr2_3widg.png" alt="predict price on widget" width="400" height="300">
 
