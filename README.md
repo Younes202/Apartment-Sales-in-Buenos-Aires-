@@ -1,7 +1,8 @@
 # Predict the sale prices of apartments in Buenos Aires! 🇦🇷
 
 
-Welcome👋, in this project focused on Predicting Apartment Sale Prices in Buenos Aires! Our endeavor aims to develop predictive models for estimating apartment sale prices in the bustling city of Buenos Aires based on a data from kaggle [argentina-house-sale](https://www.kaggle.com/datasets/andreavsquezlpez/properati-argentina-house-sale). With a commitment to rigorous analysis and methodical modeling, we seek to provide accurate forecasts that contribute to informed decision-making within the real estate market of this dynamic city. Join us as we delve into the complexities of real estate data and strive to offer valuable insights for strategic planning and investment.🚀 
+Welcome👋, in this project focused on Predicting Apartment Sale Prices in Buenos Aires! Our endeavor aims to develop predictive models for estimating apartment sale prices in the bustling city of Buenos Aires based on a data from kaggle [argentina-house-sale](https://www.kaggle.com/datasets/andreavsquezlpez/properati-argentina-house-sale). 
+With a commitment to rigorous analysis and methodical modeling, we seek to provide accurate forecasts that contribute to informed decision-making within the real estate market of this dynamic city. Join us as we delve into the complexities of real estate data and strive to offer valuable insights for strategic planning and investment.🚀 
 
 ## Project Overview 
 
