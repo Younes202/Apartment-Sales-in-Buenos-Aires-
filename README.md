@@ -40,7 +40,7 @@ With a commitment to rigorous analysis and methodical modeling, we seek to provi
 ## Resources
 - **[Click  here to access to the open source data from kaggle](https://www.kaggle.com/code/muhammadhafil/housing-in-buenos-aires)** 
 
-- **[Click  here to access to the coude source of the project](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires/blob/main/notebooks/project_representation.ipynb)**
+- **[Click  here to access to the code source of the project](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires/blob/main/notebooks/project_representation.ipynb)**
 
 
 ## Contact
